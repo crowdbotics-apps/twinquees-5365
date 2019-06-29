@@ -1,0 +1,3 @@
+rootProject.name = 'twinquees_5365'
+
+include ':app'
